@@ -34,3 +34,6 @@ E:\GDrive\УНИВЕР\СМО\WindowsFormsApplication3\obj\Debug\WindowsFormsApp
 E:\GDrive\УНИВЕР\СМО\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
 E:\GDrive\УНИВЕР\СМО\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
 E:\GDrive\УНИВЕР\СМО\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\Test\СМО\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Admin\Documents\GitHub\Test\СМО\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Admin\Documents\GitHub\Test\СМО\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
